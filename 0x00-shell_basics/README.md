@@ -1,1 +1,1 @@
-Display current directory contents
+creating a script that creates a diretory in another directory
