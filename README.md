@@ -1,1 +1,1 @@
-0. Hello World
+Display the content of a file
